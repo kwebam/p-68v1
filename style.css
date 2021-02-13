@@ -1,0 +1,79 @@
+.brcss {
+       background-color: #49c2e3;
+}
+
+.line {
+       background-color: #000;
+}
+
+#About {
+       background: linear-gradient(#60ebeb 0%, #aa3fe8 100%);
+       color: darkgreen;
+       font-size: 50px;
+       font-style: italic;
+       font-weight: 400;
+       font-variant: small-caps;
+}
+
+#Home {
+       background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#Gallery {
+       background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+       color: darkgreen;
+       font-size: 50px;
+       font-style: italic;
+       font-weight: 400;
+       font-variant: small-caps;
+}
+
+#na {
+       position: sticky;
+       top: 0;
+       z-index: 99999;
+       font-family: small-caps;
+       font-size: 2px;
+       background-color: burlywood;
+text-align: center;
+}
+
+.links {
+       color: black;
+}
+
+#m1 {
+       color: maroon;
+}
+
+#m2 {
+       color: maroon;
+}
+
+#m3 {
+       color: maroon;
+}
+
+#t1 {
+       color: maroon;
+       font-size: 50px;
+       font-style: italic;
+       font-weight: 400;
+       font-variant: small-caps;
+}
+
+#t2 {
+       color: chartreuse;
+       font-size: 50px;
+       font-style: italic;
+       font-weight: 400;
+       font-variant: small-caps;
+}
+
+#address {
+       background: linear-gradient(#60ebeb 0%, #aa3fe8 100%);
+       font-size: 50px;
+       font-style: italic;
+       font-weight: 400;
+       font-variant: small-caps;
+}
